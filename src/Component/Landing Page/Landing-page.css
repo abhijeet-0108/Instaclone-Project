@@ -1,0 +1,32 @@
+.landing{
+    display: flex;
+    column-gap: 100px;
+}
+.textnbtn{
+ display: flex;
+ flex-direction: column;
+ align-self: center;
+ color: green;
+ font-weight: bold;
+ font-size: 30px;
+ margin-bottom: 20px;
+ 
+}
+.landingimg{
+    width: 40%;
+}
+.landingimg img{
+    object-fit: cover;
+    width: 100%;
+}
+.txt{
+    margin-bottom: 20px;
+    font-family: sans-serif;
+}
+.navbtn button{
+    border-radius: 5px;
+    background-color: white;
+    border-color: green;
+    margin-left: 50px;
+    color: green;
+}

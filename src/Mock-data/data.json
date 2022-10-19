@@ -1,0 +1,26 @@
+{
+    "user":
+                [
+            {"name":"Siva",
+            "location":"Bengaluru",
+            "likes":"64 Likes",
+            "description": "Kick start your career",
+            "PostImage": "./images/10x.jpeg",
+            "date": "12/02/2022"
+            },
+            {"name":"Neeraj",
+            "location":"Pune",
+            "likes":"30 Likes",
+            "description": "Some Nature View",
+            "PostImage": "./images/nature.avif",
+            "date": "15/05/2022"
+            },
+            {"name":"Rahul",
+            "location":"Hyderabad",
+            "likes":"30 Likes",
+            "description": "Airplane Taking Off View",
+            "PostImage": "./images/Airplane.jpg",
+            "date": "10/06/2022"
+            }
+            ]
+}

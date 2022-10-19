@@ -1,0 +1,51 @@
+.card{
+    width: 400px;
+    border: 1px solid gray;
+    border-radius: 5px;
+    font-family: 'Poppins', sans-serif;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+.card-image img{
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+}
+
+.card-header{
+    display: flex;
+    margin: 10px;
+}
+.card-header__name{
+    font-weight: bold;
+}
+.card-place{
+    color: gray;
+}
+.icon-1{
+    margin-left: auto;
+    align-self: center;
+}
+.card-actions{
+    padding: 10px;
+}
+.card-actions span{
+    font-size: 12px;
+    margin-right: 10px;
+}
+.card-actions span:last-child{
+    float: right;
+    align-self: center;
+}
+.desciption{
+    font-weight: bold;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+.likes{
+    font-weight: bold;
+    margin-left: 20px;
+    margin-bottom: 5px;
+
+}
